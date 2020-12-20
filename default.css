@@ -13,7 +13,8 @@ html, body
 		font-size: 12pt;
 		font-weight: 200;
 		color: #FFF;
-		width: 1200px;
+		width: 1920px;
+		height: 1080px;
 	}
 
 
@@ -57,7 +58,7 @@ html, body
 	{
 		overflow: hidden;
 		margin: 0em auto;
-		width: 1200px;
+		width: 1600px;
 	}
 
 /*********************************************************************************/
@@ -331,6 +332,8 @@ html, body
 		padding: 5em 0em 7em 0em;
 		background: #111111 url("images/header-bg.png") no-repeat center;
 		background-size: cover;
+		width: 1920px;
+		height: 1080px;
 	}
 
 	#header
